@@ -70,7 +70,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 5px double white;
+  border: 5px double gray;
   transition: all .5s;
 }
 header .profile-image:hover {
@@ -137,11 +137,6 @@ ul.skills {
 .developer,
 .telephone {
   width: 100%;
-}
-img{
-  margin-top: 50px;
-  width: 400px;
-  height: 250px;
 }
 
 footer {
